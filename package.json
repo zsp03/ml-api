@@ -1,0 +1,16 @@
+{
+  "name": "ml-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "downloadHeroImage.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zsp03",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.2",
+    "progress": "^2.0.3"
+  }
+}
